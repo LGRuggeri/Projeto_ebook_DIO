@@ -18,8 +18,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título   
-Função: Escreva
+|  título |   Função: Escreva
 
 Tipo de Texto: Roteiro para e-book
 
@@ -33,8 +32,7 @@ Agora, use os itens em {RESUMO} para o {ROTEIRO} seguindo as {REGRAS}.
 
 {RESUMO}: Faça um texto para ebook , com foco em Python, listando os principais fundamentos e funções da linguagem com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico.
 {ROTEIRO}: Crie um título de um ebook sobre o tema de python, o ebook é do nicho de programação e o subnicho é de desenvolvimento em python, o título deve ser épico e curto, e tenha uma temática de fantasia medieval no título, me liste 5 variações de títulos                                                       |
-| conteúdo 
-{REGRAS}
+| conteúdo | {REGRAS}
 Mantenha o tom e ritmo, mas reescreva  as palavras em {ROTEIRO} para que seja diferente do original, expandindo ou mudando conforme necessário.
 Use Analogias simples e hiperbóles. |
 
@@ -44,7 +42,6 @@ Leonard：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | a powerful wizard with his spell book facing a giant snake in the colors of the python       programming language logo, pixel art style | 
-| :----: |
 | título | a powerful wizard with his spell book facing a giant snake in the colors of the python programming language logo, pixel art style |
 
 ## ✨ Features
